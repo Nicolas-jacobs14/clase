@@ -1,0 +1,43 @@
+
+ol {
+    color: rgb(248, 0, 0);
+}
+ ul {
+    color: yellow;
+ }
+  {
+    color: black;
+ }
+ h1 {
+    color: rgb(247, 7, 175);
+ }
+ #verde {
+    color: green;
+    font-family: "Jersey 10", sans-serif;
+ }
+ h5 {
+    color: greenyellow;
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 300;
+ }
+ body {
+    background-color: rgb(48, 46, 46)
+ }
+ p {
+    color: aliceblue;
+ }
+ #pie {
+    color: darkmagenta;
+    background-color: black;
+ }
+ #arriba {
+    color: rgb(0, 255, 13);
+    background-color: rgb(255, 191, 191);
+}
+.rojo {
+    color: aqua;   
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 900;
+}
+
+
