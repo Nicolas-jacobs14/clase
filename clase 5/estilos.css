@@ -1,0 +1,85 @@
+
+ol {
+    color: rgb(248, 141, 0);
+}
+ ul {
+    color: maroon;
+    
+ }
+  {
+    color: black;
+ }
+ h1 {
+    color: rgb(247, 7, 175);
+ }
+ #verde {
+    color: green;
+    font-family: "Jersey 10", sans-serif;
+ }
+ body {
+    background-color: rgb(48, 46, 46)
+ }
+ p {
+    color: aliceblue;
+ }
+ #pie {
+   display: flex;
+    color: darkmagenta;
+    background-color: black;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+ }
+ #arriba {
+   display: flex;
+   justify-content:space-around
+    color: rgb(47, 0, 255);
+    background-color: rgb(0, 255, 128);
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.rojo {
+    color: aqua;   
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 900;
+}
+h4{
+   color: aqua;
+}
+
+/* heder */
+
+
+.irabajo{
+   display: flex;
+   background-color: rgb(255, 122, 237);
+   align-items: center;
+}
+
+.pepe {
+   display: flex;
+    color: rgb(255, 208, 0);
+    background-color: darkslategrey;
+    width: 50%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;   
+ }
+ .limon{
+   display: flex;
+   background-color: rgb(39, 42, 43);
+   color: greenyellow;
+   font-family: "Jersey 10", sans-serif;
+   font-weight: 300;
+   flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+ }
+ .lima{
+   display: flex;
+   background-color: bisque;
+   flex-direction: row;
+   justify-content: space-evenly;
+ }
+ 
