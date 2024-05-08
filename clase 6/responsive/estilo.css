@@ -1,0 +1,13 @@
+
+
+.comunidad{
+    background-color: aquamarine;
+    width:30%;
+}
+.tienda div {
+    width:30%;
+    background-color: blueviolet;
+display: flex;
+flex-wrap: wrap;
+padding: 1rem;
+}
